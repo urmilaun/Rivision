@@ -1,0 +1,46 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.Navbar-items{
+    
+    justify-content: center; 
+}
+.search-bar{
+    height: 30px;
+    width: 193px;
+    border-top-right-radius: 10%;
+    padding: px;
+
+}
+.search-button{
+    height: 30px;
+    width: 80px;
+}
+.landing{
+    background-color:lightblue ;
+    height: 25rem;
+}
+.Collection{
+    font-size: 3rem;
+    position: relative;
+    left: 50rem;
+    top: 4rem;
+}
+#discount{
+    position: relative;
+    left: 51rem;
+    top: 5rem;
+    font-family: 'Satisfy', cursive;
+    font-size: larger;
+    color: #0081B4;
+}
+#Best-Collection{
+    position: relative;
+    left: 50.3rem;
+    top: 4rem;
+}
+#Shop-Button{
+    position: relative;
+    left: 50.3rem;
+    top: 4rem;
+}
